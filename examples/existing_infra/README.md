@@ -21,7 +21,6 @@ nis_server_sercure_net_list=["255.255.0.0   10.0.0.0"]
 nis_client_private_ip_list=["10.0.0.19", "10.0.0.18"]
 nis_client_private_user_list=["opc", "opc"]
 nis_client_ssh_private_key_list=["/Users/jialia/.ssh/id_rsa", "/Users/jialia/.ssh/id_rsa"]
-nis_sudo_group_name=""
 ```
 However, for testing this mode, you also can prepare existing infra by following steps:
 ```bash
