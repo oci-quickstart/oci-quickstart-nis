@@ -1,0 +1,13 @@
+nis_login_host_public_ip= "<bustion public ip>"
+nis_login_user= "<bustion user name>"
+nis_login_host_ssh_private_key="<private key filepath used on the bastion host>"
+#Info: nis_server_fullhostname=$nis_server_hostname.$nis_server_domainname
+nis_server_hostname="<hostname of nis server, not full hostname>"
+nis_server_domainname="<The domain name of nis server>"
+nis_domain_name="<The nis domain name>"
+nis_server_private_ip="<The nis server private ip>"
+nis_server_user="<The nis server user name>"
+nis_server_ssh_private_key="<The private key filepath used on the nis server>"
+nis_client_private_ip_list=[<The client private ip list>]
+nis_client_private_user_list=[<The client user list>]
+nis_client_ssh_private_key_list=[<The private key filepath list for client>]
