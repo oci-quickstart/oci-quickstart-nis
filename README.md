@@ -1,4 +1,4 @@
-# oci-quickstart-nis
+# oci-nis
 These are Terraform modules that deploy [NIS](https://en.wikipedia.org/wiki/Network_Information_Service) on [Oracle Cloud Infrastructure (OCI)](https://cloud.oracle.com/en_US/cloud-infrastructure).
 
 ## About
